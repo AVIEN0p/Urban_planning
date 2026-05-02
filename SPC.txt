@@ -1,0 +1,4 @@
+SPC - start point change
+obtaining coords from google maps
+    - click on the map 
+    - coords will be displayed
